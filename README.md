@@ -1,1 +1,2 @@
-# Martyanov_Sergey_DNS_server
+# Мартьянов Сергей КН-202
+# Кэширующий DNS-сервер
